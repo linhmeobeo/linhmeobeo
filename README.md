@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @linhmeobeo
-- 👀 I’m interested in data engineering, Cloud technologies, AWS, Python, Software architecture, software modeling etc
-- 🌱 I’m currently learning container
+- 👀 I’m interested in data engineering, Cloud technologies, AWS, Python, Software architecture, software modelling etc
 - 💞️ I’m looking to collaborate on all above
 - 📫 How to reach me ...
 
